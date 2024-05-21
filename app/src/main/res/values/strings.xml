@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Firebase_Lawyer</string>
+    <string name="logo">Logo</string>
+    <string name="legal_eagle">Legal Eagle</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="account_information">Account Information</string>
+    <string name="professional_information">Professional Information</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="choose_an_image">Choose an Image…</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="lawyer_type">Lawyer Type</string>
+    <string name="court_type">Court Type</string>
+    <string name="highest_license">Highest License</string>
+    <string-array name="LawyerTypes">
+        <item>Select a type</item>
+        <item>Criminal Lawyer</item>
+        <item>Civil Lawyer</item>
+        <item>Corporate Lawyer</item>
+        <item>Family Lawyer</item>
+        <item>Intellectual Property Lawyer</item>
+        <item>Employment and Labor Lawyer</item>
+        <item>Real Estate Lawyer</item>
+        <item>Environmental Lawyer</item>
+        <item>Immigration Lawyer</item>
+        <item>Tax Lawyer</item>
+        <item>Bankruptcy Lawyer</item>
+        <item>Personal Injury Lawyer</item>
+        <item>Constitutional Lawyer</item>
+        <item>Human Rights Lawyer</item>
+        <item>Entertainment Lawyer</item>
+    </string-array>
+
+    <string-array name="CourtTypes">
+        <item>Select a Court</item>
+        <item>Supreme Court</item>
+        <item>High Courts</item>
+        <item>District Courts</item>
+        <item>Sessions Courts</item>
+        <item>Family Courts</item>
+        <item>Juvenile Courts</item>
+        <item>Consumer Courts</item>
+        <item>Anti-Terrorism Courts</item>
+        <item>Labor Courts</item>
+        <item>Tax Courts</item>
+        <item>Bankruptcy Courts</item>
+        <item>Environmental Courts</item>
+        <item>Accountability Courts</item>
+        <item>Customs Courts</item>
+        <item>Military Courts</item>
+    </string-array>
+
+    <string-array name="HighestLicense">
+        <item>Select a relevant Court</item>
+        <item>Supreme Court</item>
+        <item>High Courts</item>
+        <item>District Courts</item>
+        <item>Sessions Courts</item>
+        <item>Family Courts</item>
+        <item>Juvenile Courts</item>
+        <item>Consumer Courts</item>
+        <item>Anti-Terrorism Courts</item>
+        <item>Labor Courts</item>
+        <item>Tax Courts</item>
+        <item>Bankruptcy Courts</item>
+        <item>Environmental Courts</item>
+        <item>Accountability Courts</item>
+        <item>Customs Courts</item>
+        <item>Military Courts</item>
+    </string-array>
+
+    <string-array name="City">
+        <item>Select a City</item>
+        <item>Islamabad</item>
+        <item>Lahore</item>
+        <item>Karachi</item>
+        <item>Peshawar</item>
+        <item>Quetta</item>
+        <item>Faisalabad</item>
+        <item>Gujranwala</item>
+        <item>Sialkot</item>
+        <item>Multan</item>
+        <item>Hyderabad</item>
+        <item>Sukkur</item>
+        <item>Abbottabad</item>
+        <item>Mardan</item>
+        <item>Dera Ismail Khan</item>
+        <item>Gilgit</item>
+        <item>Muzaffarabad</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gigs">Gigs</string>
+    <string name="profile">Profile</string>
+    <string name="add">Add</string>
+    <string name="add_new_gig">Add New Gig</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_description">Enter description</string>
+    <string name="enter_hearing_fee">Enter hearing fee</string>
+    <string name="enter_your_iban_number">Enter your IBAN number</string>
+    <string name="back">Back</string>
+    <string name="add_btn">Add</string>
+    <string name="price_per_hearing">Price per Hearing: </string>
+    <string name="description">description</string>
+    <string name="city">City</string>
+    <string name="edit_gig">Edit Gig</string>
+    <string name="save">Save</string>
+    <string name="case_title">Case Title</string>
+    <string name="case_id">Case id</string>
+    <string name="username">Username: </string>
+    <string name="gig_title">Gig Title: </string>
+    <string name="full_name">Full Name: </string>
+    <string name="userid">Userid</string>
+    <string name="pending">Pending</string>
+    <string name="username_of_user_account">username of user account</string>
+    <string name="name">Name</string>
+    <string name="logout">LogOut</string>
+    <string name="re_enter_new_password">Re-enter new password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="enter_new_username">Enter new Username</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="number_of_hearings">Number of Hearings: </string>
+    <string name="_0">0</string>
+    <string name="number_of_hearings1">Number Of Hearings: </string>
+    <string name="save_changes">Save Changes</string>
+
+
+</resources>
