@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "155421062189",
+    "firebase_url": "https://legal-eagle-31de6-default-rtdb.firebaseio.com",
+    "project_id": "legal-eagle-31de6",
+    "storage_bucket": "legal-eagle-31de6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155421062189:android:fafcf9606a8a59906934a4",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmGLC_oLnyRzhLDyhWA5z3Sfa5UMRSHb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155421062189:android:76ecd12e89a8c9576934a4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_lawyer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmGLC_oLnyRzhLDyhWA5z3Sfa5UMRSHb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155421062189:android:f02cb7e79da6a3ea6934a4",
+        "android_client_info": {
+          "package_name": "com.example.legaleagleuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmGLC_oLnyRzhLDyhWA5z3Sfa5UMRSHb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
